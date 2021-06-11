@@ -1,0 +1,856 @@
+[
+    {
+        "name": ".minecraft",
+        "tree": [
+            {
+                "name": "mods",
+                "tree": [
+                    {
+                        "name": "%5B先进养蜂%5Dgendustry-1.6.3.132-mc1.7.10.jar",
+                        "length": 1918268,
+                        "hash": "fc42e84ebacc20fda12c53fc611b950547ae29a1"
+                    },
+                    {
+                        "name": "1.7.10",
+                        "tree": [
+                            {
+                                "name": "Baubles-1.7.10-1.0.1.10.jar",
+                                "length": 95415,
+                                "hash": "b6e6ce2d0476d1d53686440f2fc70d2a27e289c2"
+                            },
+                            {
+                                "name": "CodeChickenLib-1.7.10-1.1.3.138-universal.jar",
+                                "length": 314789,
+                                "hash": "e7375c9cd5c39dae10cda636e2fd39bab797d017"
+                            },
+                            {
+                                "name": "ForgeMultipart-1.7.10-1.1.2.331-universal.jar",
+                                "length": 879440,
+                                "hash": "8d84920370f8d2a74ff287712974360ef679380d"
+                            },
+                            {
+                                "name": "ForgeMultipart-1.7.10-1.2.0.345-universal.jar",
+                                "length": 111257,
+                                "hash": "aee6e96f78d289358203239a94314f6de9b203c8"
+                            },
+                            {
+                                "name": "[1.7.10]bspkrsCore-universal-6.16.jar",
+                                "length": 198525,
+                                "hash": "b591d7b526794c0b9d22d10e0a0b46636c10fce3"
+                            },
+                            {
+                                "name": "[必要][前置]CodeChickenLib-1.7.10-1.1.3.138-universal.jar",
+                                "length": 314789,
+                                "hash": "e7375c9cd5c39dae10cda636e2fd39bab797d017"
+                            },
+                            {
+                                "name": "[魔法蜜蜂前置]ElecCore-1.7.10-1.4.294.jar",
+                                "length": 297928,
+                                "hash": "061ba8f143259508c6e75ecada6ea6720856e687"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Botania r1.8-249.jar",
+                        "length": 15977344,
+                        "hash": "eee543e33c0f57c93d3d83815576cc96236f56f4"
+                    },
+                    {
+                        "name": "ChunkAnimator-MC1.7.10-1.0.1.jar",
+                        "length": 16286,
+                        "hash": "a623e456db5b409ebe919d2498369c01f6b60c03"
+                    },
+                    {
+                        "name": "CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
+                        "length": 145782,
+                        "hash": "98f63c1705c297517c905a6a07b91d7f5683f131"
+                    },
+                    {
+                        "name": "entedit.dat",
+                        "length": 283,
+                        "hash": "9a9f3674490b044c12a2c2c1dddd32dd05136ad8"
+                    },
+                    {
+                        "name": "FoxExtra狐月刀改 v1.1.2(MC1710).jar",
+                        "length": 1459041,
+                        "hash": "53501a2265cef8247929842519fae34c476cc3f4"
+                    },
+                    {
+                        "name": "ic2",
+                        "tree": [
+                            {
+                                "name": "EJML-core-0.26.jar",
+                                "length": 341614,
+                                "hash": "4d7c1d7b16b80875d7fba8d72b2e24eece176124"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "LunatriusCore-1.7.10-1.1.2.21-universal.jar",
+                        "length": 57644,
+                        "hash": "e07d277bbb736654bd14047ad8ea0644228a0518"
+                    },
+                    {
+                        "name": "manametalmod-5.5.4.jar",
+                        "length": 156904614,
+                        "hash": "e67731cc9672f5fc06e52195b20b05e93641b29b"
+                    },
+                    {
+                        "name": "MFR Compat - Magical Crops v1-2-1.jar",
+                        "length": 8337,
+                        "hash": "2f88df262c941376eb80f95567e6e8454f972eb9"
+                    },
+                    {
+                        "name": "Muya-1.9.2.jar",
+                        "length": 284396,
+                        "hash": "c72f699590b5406389cf60750a5db2fb16df9115"
+                    },
+                    {
+                        "name": "neiaddons-1.12.14.40-mc1.7.10.jar",
+                        "length": 101777,
+                        "hash": "caf51bb104d309bc8a51d4dffc621f48aaa9e0ce"
+                    },
+                    {
+                        "name": "NEIIntegration-MC1.7.10-1.1.2.jar",
+                        "length": 197046,
+                        "hash": "faa216961fee0d2edb1fb5ad353dae9122db04b7"
+                    },
+                    {
+                        "name": "NEIPlugins-1.1.0.11.jar",
+                        "length": 275892,
+                        "hash": "24a052dac548ba94fa5401b2fdcee383e6b8b62a"
+                    },
+                    {
+                        "name": "NotEnoughItems-1.7.10-1.0.5.120-universal.jar",
+                        "length": 513136,
+                        "hash": "a7587d48f19b6e9e8791c0e3d2e9aca3b36882c7"
+                    },
+                    {
+                        "name": "railcraft",
+                        "tree": [
+                            {
+                                "name": "emblems",
+                                "tree": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "R键.jar",
+                        "length": 224416,
+                        "hash": "5c8b3762b579e8dd0d878ecabd532cbfb184757a"
+                    },
+                    {
+                        "name": "thaumcraftneiplugin-1.7.10-1.6a.jar",
+                        "length": 62204,
+                        "hash": "8489abd2506c158cc64b0bd19098f13c1d876862"
+                    },
+                    {
+                        "name": "VexView_ForgeMod_1.7.10 .jar",
+                        "length": 849227,
+                        "hash": "a3423b775cda580fcd06d46624ced4b2274590fb"
+                    },
+                    {
+                        "name": "VoxelMods",
+                        "tree": [
+                            {
+                                "name": "voxelMap",
+                                "tree": [
+                                    {
+                                        "name": "127.0.0.1~colon~25567.points",
+                                        "length": 141,
+                                        "hash": "83d56f9fef5c3e2a502f45ec845cb9e8647aa122"
+                                    },
+                                    {
+                                        "name": "127.0.0.1~colon~26552.points",
+                                        "length": 144,
+                                        "hash": "03ee00c754b0b13561ed2505c6de56df4c679f3c"
+                                    },
+                                    {
+                                        "name": "192.168.1.5.points",
+                                        "length": 137,
+                                        "hash": "f49bf2ac8eead881b2c75cba588f6ea6913a308c"
+                                    },
+                                    {
+                                        "name": "bgp.mc1.vips.lddgo.com~colon~30603.points",
+                                        "length": 141,
+                                        "hash": "1b5eaa8e81c9441e828646ad0defec3258c734bd"
+                                    },
+                                    {
+                                        "name": "bgp.mc2.vips.lddgo.com~colon~30606.points",
+                                        "length": 141,
+                                        "hash": "14df96327411b5013b26a38aa571272529248ebe"
+                                    },
+                                    {
+                                        "name": "d.mc3.svips.lddgo.com~colon~30705.points",
+                                        "length": 145,
+                                        "hash": "4cc6cfd61e7e70f31bb5ca999673492e8b439be1"
+                                    },
+                                    {
+                                        "name": "dx.polarstar.cc~colon~47101.points",
+                                        "length": 257,
+                                        "hash": "c074c223f8d6e605886af1ec8858a0968ab35de5"
+                                    },
+                                    {
+                                        "name": "k.polarstar.cc~colon~62301.points",
+                                        "length": 356,
+                                        "hash": "bd0af4fb45bb0173437f877d49dfbd495395d4f6"
+                                    },
+                                    {
+                                        "name": "mc1.gps.lddgo.com~colon~30183.points",
+                                        "length": 358,
+                                        "hash": "021c2a33b2a3e86c3a186792873cfa42d90c5d80"
+                                    },
+                                    {
+                                        "name": "mc1.vips.lddgo.com~colon~30603.points",
+                                        "length": 141,
+                                        "hash": "1cdef10815c49e7606578939ff38e0d88cf23216"
+                                    },
+                                    {
+                                        "name": "mc2.vips.lddgo.com~colon~30606.points",
+                                        "length": 141,
+                                        "hash": "13739e18d0dded4239f5431f692967ed3cb91865"
+                                    },
+                                    {
+                                        "name": "mc3.gps.lddgo.com~colon~30305.points",
+                                        "length": 28,
+                                        "hash": "1625954a4a76fe4ee5232979ab9ee32f537b6153"
+                                    },
+                                    {
+                                        "name": "mc3.svips.lddgo.com~colon~30705.points",
+                                        "length": 490,
+                                        "hash": "1ae880553e3dcd7a4f1407e7ee13c5c6ab58f9e1"
+                                    },
+                                    {
+                                        "name": "mc4.vips.lddgo.com~colon~30600.points",
+                                        "length": 142,
+                                        "hash": "e81a8e95c6e54519b5afa55b0c123b8385bba855"
+                                    },
+                                    {
+                                        "name": "mc4.vips.lddgo.com~colon~30604.points",
+                                        "length": 142,
+                                        "hash": "1b65ac4203d9671dd1889d0b4301a969073ba69d"
+                                    },
+                                    {
+                                        "name": "mc4.vips.lddgo.com~colon~30618.points",
+                                        "length": 28,
+                                        "hash": "46b9573b38ada5e2bdfc8681096860a1ec1cda49"
+                                    },
+                                    {
+                                        "name": "mc8.gps.lddgo.com~colon~30008.points",
+                                        "length": 141,
+                                        "hash": "3e28d9bffde7175bd94ba4d838ca7417b9bf591e"
+                                    },
+                                    {
+                                        "name": "mconce.cn~colon~10131.points",
+                                        "length": 141,
+                                        "hash": "29f1d668dd348f85ccfec33cb6eca56c0890787e"
+                                    },
+                                    {
+                                        "name": "mconce.cn~colon~1952.points",
+                                        "length": 136,
+                                        "hash": "ee027de2c3dac2af115693175484a8b9d7737727"
+                                    },
+                                    {
+                                        "name": "t1.suteidc.com~colon~26552.points",
+                                        "length": 144,
+                                        "hash": "18d5db1a2239331ba61a1516c9e623aea50f1727"
+                                    },
+                                    {
+                                        "name": "world.points",
+                                        "length": 139,
+                                        "hash": "8c9d6360db15c96c0059927c7519039b971571dd"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "voxelmap.properties",
+                                "length": 768,
+                                "hash": "7cabc062f288bd47c6515e816132aceed96d7876"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "[ 合成编辑器 ]MineTweakerRecipeMaker-1.1.jar",
+                        "length": 32983,
+                        "hash": "d8ff5b7fab43ea7882d64335a96b3df28a83e595"
+                    },
+                    {
+                        "name": "[ 应用能源2-机器增强 ].jar",
+                        "length": 507192,
+                        "hash": "cf58157bd2fbce6a80b4e61b10234d8542213bd4"
+                    },
+                    {
+                        "name": "[ 应用能源2-机器增强-前置 ].jar",
+                        "length": 1503184,
+                        "hash": "f9d965a3b66f4e2cbe392217ce9fe7ca753611cb"
+                    },
+                    {
+                        "name": "[ 消除合成冲突 ] NoMoreRecipeConflict-0.2[1.7.10].jar",
+                        "length": 15602,
+                        "hash": "08977ef57a1cf010e506e9d60fbd35b26c62e6c4"
+                    },
+                    {
+                        "name": "[B][林业扩展]binnie.jar",
+                        "length": 4562769,
+                        "hash": "883049b4a187e1581b79f8b0ffd0f555d99996cd"
+                    },
+                    {
+                        "name": "[B][血魔法]BloodMagic.jar",
+                        "length": 9198412,
+                        "hash": "9b519305b01bc64498f0049d524fe1acf6b3ee76"
+                    },
+                    {
+                        "name": "[C][热力前置]CoFHCore-[1.7.10]3.1.4-329.jar",
+                        "length": 1230511,
+                        "hash": "b7d66be19a6898232f5498a50ac0207109a3b2e6"
+                    },
+                    {
+                        "name": "[F][FPS优化]fastcraft-1.25.jar",
+                        "length": 183482,
+                        "hash": "196ebe3d9bb2085e000f0cc6be177d30d0b7190d"
+                    },
+                    {
+                        "name": "[G][生长工艺]growthcraft.jar",
+                        "length": 2417353,
+                        "hash": "c9a9cc350d257fb56c9b3bcefa89734924cdf60c"
+                    },
+                    {
+                        "name": "[G键合成表]CraftGuide-1.6.8.2-forge[hukk汉化].jar",
+                        "length": 352780,
+                        "hash": "7a55e1a3c47eb01348bdb5234a4e6244d4c26782"
+                    },
+                    {
+                        "name": "[ICraft]中文输入InputFix-1.7.10-v5.jar",
+                        "length": 16647,
+                        "hash": "9764a884065df77e79485aee58a7f27dcd1602b4"
+                    },
+                    {
+                        "name": "[I][沉浸]ImmersiveEngineering-0.7.7.jar",
+                        "length": 3610468,
+                        "hash": "5574a1fd5b308d169f053eaeb52ad40ae89a5015"
+                    },
+                    {
+                        "name": "[L][幸运方块]luckyblock.jar",
+                        "length": 83487,
+                        "hash": "7480dae6c25d2f1be158f861e189e919d875a252"
+                    },
+                    {
+                        "name": "[NEI][工业2插件]IC2 Nei Plugin Version 1.0.8.jar",
+                        "length": 59751,
+                        "hash": "be04ba341333b389a9621816a68dd65aaf4f10d7"
+                    },
+                    {
+                        "name": "[RPG贴图]pozo.jar",
+                        "length": 2002199,
+                        "hash": "7253bbd764121c1caf87cebede5e113abb98b3b5"
+                    },
+                    {
+                        "name": "[T][暮色]twilightforest.jar",
+                        "length": 3852307,
+                        "hash": "a018eb18712fd382e52f2d1531027625222a64f1"
+                    },
+                    {
+                        "name": "[T][热力]ThermalExpansion.jar",
+                        "length": 2614932,
+                        "hash": "ae0d16da59401fee4ef4dcda42fa2b85efee96bc"
+                    },
+                    {
+                        "name": "[T][热力]ThermalFoundation.jar",
+                        "length": 2316321,
+                        "hash": "5a8b566c655738fe02c749206f3e87d32ce74015"
+                    },
+                    {
+                        "name": "[T][热动力]ThermalDynamics.jar",
+                        "length": 632485,
+                        "hash": "e22847e8b2286219c1c8833ba264916a6729762d"
+                    },
+                    {
+                        "name": "[V][连锁]VeinMiner.jar",
+                        "length": 119475,
+                        "hash": "bf8198322111c0b1c0af097c0f926065142f56cf"
+                    },
+                    {
+                        "name": "[万用皮肤补丁].jar",
+                        "length": 81559,
+                        "hash": "9affe23132155f94aa8207c10e8054107a1a0902"
+                    },
+                    {
+                        "name": "[伪刃2]SlashBlade-NegoreRouse-r2vL.jar",
+                        "length": 34603137,
+                        "hash": "6a1da2bdf0a32509e2ea03f33f39048000e5b982"
+                    },
+                    {
+                        "name": "[伪刃]SlashBlade-PseudoEdge-mc1.7.10-r11.jar",
+                        "length": 6244929,
+                        "hash": "7c6c738453cd9327e278221649cc137b498cd21c"
+                    },
+                    {
+                        "name": "[像素防具]Example.jar",
+                        "length": 16018926,
+                        "hash": "e4dafb01b70a21ab937d4fbd8d063ec690921ec3"
+                    },
+                    {
+                        "name": "[农业工艺]AgriCraft.jar.jar",
+                        "length": 1156745,
+                        "hash": "cdc3f95c7a0ad28938c3b51a4c8826852818e095"
+                    },
+                    {
+                        "name": "[加速火把]Torcherino-TehNut-1.7.10-2.2.jar",
+                        "length": 36226,
+                        "hash": "f7d33543a29effdda559687dff0ce5ecaecf1bca"
+                    },
+                    {
+                        "name": "[匠魂]TConstruct-1.7.10-1.8.8.build991.jar",
+                        "length": 5606642,
+                        "hash": "35e7ee78cd1f8b185373a6b91de252fa14755f3f"
+                    },
+                    {
+                        "name": "[匠魂前置]Mantle-1.7.10-0.3.2b.jar",
+                        "length": 202458,
+                        "hash": "56552968dc8df9a3ad0f909024d086f3748844dc"
+                    },
+                    {
+                        "name": "[匠魂工具提示]TiCTooltips-mc1.7.10-1.2.5.jar",
+                        "length": 52002,
+                        "hash": "5a3b97262bd10cf639974251bfda1a35f4b61127"
+                    },
+                    {
+                        "name": "[匠魂拓展]IguanaTinkerTweaks-1.7.10-2.1.6.jar",
+                        "length": 427425,
+                        "hash": "7a7446ad042d8e8b80dde7ffb1ca1dad80bf2de5"
+                    },
+                    {
+                        "name": "[匠魂更多材料]ExtraTiC-1.7.10-1.4.6.jar",
+                        "length": 11557124,
+                        "hash": "2453d27979b69339e23c14d6fecb1a721c0a4ef1"
+                    },
+                    {
+                        "name": "[可见光发电机太阳能]VisibleRayGenerator-1710-492V2.jar",
+                        "length": 68358,
+                        "hash": "a86ffe6be90a3719fc0284723bf96c5b51976a2f"
+                    },
+                    {
+                        "name": "[大型反应堆]BigReactor r0.4.3a-1.7.10.jar",
+                        "length": 771107,
+                        "hash": "4766538f3f13055e53292d6bb863046294e078f2"
+                    },
+                    {
+                        "name": "[天火]MistRaven_Mist _Raven-The_Deathly_Hallow-0.0.0.jar",
+                        "length": 568518,
+                        "hash": "ae5d39d1cd6c5cdbbbaae0fdfc4507d658786b43"
+                    },
+                    {
+                        "name": "[山樱]SlashBlade-Yamazakura-mc1.7-r4.jar",
+                        "length": 5650302,
+                        "hash": "da60fc23ba0fef02ca6e0ea241b833115160716a"
+                    },
+                    {
+                        "name": "[工业]industrialcraft-2-2.2.827-experimental.jar",
+                        "length": 5633941,
+                        "hash": "a2a24f98eaab2c4a8fa2583f66590ad8cdeea405"
+                    },
+                    {
+                        "name": "[工具提醒]World-Tooltips-1.7.10-1.2.3-79.jar",
+                        "length": 35055,
+                        "hash": "92494d49bc8944c24ed9a270d119df5373140302"
+                    },
+                    {
+                        "name": "[巴鲁]Balmung-1.7.10-r1.0-1 .zip",
+                        "length": 82436,
+                        "hash": "023ae0ff99bdce71308497de1dae8166e22cee61"
+                    },
+                    {
+                        "name": "[应用能源]-AE2-rv3-beta-18.jar",
+                        "length": 2956987,
+                        "hash": "3670cf2132f11da6388d348762d09ebb36771b5a"
+                    },
+                    {
+                        "name": "[必要][前置]CodeChickenLib-1.7.10-1.1.3.138-universal.jar",
+                        "length": 314789,
+                        "hash": "e7375c9cd5c39dae10cda636e2fd39bab797d017"
+                    },
+                    {
+                        "name": "[必要][高级太阳能]1.7.10.jar",
+                        "length": 306464,
+                        "hash": "ca38d83a73fc57681b26bba307823c156d727214"
+                    },
+                    {
+                        "name": "[快捷搜索]NEI.jar.jar",
+                        "length": 234040,
+                        "hash": "e5d0d9ade87d3cc27b8b6c2d96e68bac252bafb0"
+                    },
+                    {
+                        "name": "[快速腐烂]FastLeafDecay-1.7.10-1.4.jar",
+                        "length": 7079,
+                        "hash": "d82f7a1f7573f35a4f1dace410a7fbb88bb4b522"
+                    },
+                    {
+                        "name": "[我的工厂2]MineFactoryReloaded-[1.7.10]2.8.1-174.jar",
+                        "length": 1756014,
+                        "hash": "5f1b2abdb0a1f1355bcceceec1430f39a50dc9e7"
+                    },
+                    {
+                        "name": "[抽屉].jar",
+                        "length": 476718,
+                        "hash": "6ef0860ed735ee58da0a5c28de77685316e357cf"
+                    },
+                    {
+                        "name": "[拔刀剑]SlashBlade-mc1.7.10-r87.jar",
+                        "length": 3217684,
+                        "hash": "d5457676770db7bc67ae1dae35d576fd3792b11a"
+                    },
+                    {
+                        "name": "[无中生有]Ex-Nihilo-1.38-52.jar",
+                        "length": 431068,
+                        "hash": "8320e511cbaf228b604084fff5499bffd988145a"
+                    },
+                    {
+                        "name": "[无中生有扩展].jar",
+                        "length": 399157,
+                        "hash": "706841e35919972adeda42e5594a122b6f3093ef"
+                    },
+                    {
+                        "name": "[星辉生万物]Ex-Astris-Rebirth-MC1.7.10-1.01-45.jar",
+                        "length": 693413,
+                        "hash": "915dd7b4c7178d6b5ba139287a1d13f684e23b45"
+                    },
+                    {
+                        "name": "[更多存储芯片]ExtraCells-1.7.10-2.3.7b176.jar",
+                        "length": 1436910,
+                        "hash": "507c82d5f245b61893028bb249561742510cb5ff"
+                    },
+                    {
+                        "name": "[更多实用工具].jar",
+                        "length": 3907315,
+                        "hash": "90b0530e350847123507a69d7169f84aa3c4e061"
+                    },
+                    {
+                        "name": "[更多箱子]Iron Chest.jar",
+                        "length": 158104,
+                        "hash": "2888052ca2727a875ac13fa266e74b53e90cfab4"
+                    },
+                    {
+                        "name": "[更好的建筑魔杖]BetterBuildersWands-0.6.0-1.7.10.jar",
+                        "length": 58072,
+                        "hash": "b314e5db05e0f6f4822525730b9357d5d59d8f29"
+                    },
+                    {
+                        "name": "[末影接口]EnderCore.jar.jar",
+                        "length": 467824,
+                        "hash": "ee6e69efdf487e02aeca400e3aedd132159c623b"
+                    },
+                    {
+                        "name": "[末影接口]EnderIO.jar.jar",
+                        "length": 4756103,
+                        "hash": "5530034feaec37e306c63b64a66689c8d69d7702"
+                    },
+                    {
+                        "name": "[林业]forestry_1.7.10-4.2.10.58.jar",
+                        "length": 3303678,
+                        "hash": "50d03a7f2c5dd998458416ada25711483a975178"
+                    },
+                    {
+                        "name": "[棘羽「毕方]birdblade-1.0.jar",
+                        "length": 126409,
+                        "hash": "72a9ee007f9283b54bf51063c3b4a220ec245c4e"
+                    },
+                    {
+                        "name": "[植物魔法]ExtraBotany.jar.jar",
+                        "length": 10207428,
+                        "hash": "5a23f36534067cb0afe6fc62a9ddd2f31df25c78"
+                    },
+                    {
+                        "name": "[沉浸工程].jar",
+                        "length": 302059,
+                        "hash": "b4a0e7ab2e183e0d1cef15f7d404ccf3450a2e21"
+                    },
+                    {
+                        "name": "[潘马斯丰收工艺][汉化]Pam's+HarvestCraft+1.7.10Lb.jar",
+                        "length": 2493686,
+                        "hash": "dd7debd0bec3492cc66b79fbe7bec2755f1c94d9"
+                    },
+                    {
+                        "name": "[炼狱刀[血腥]]BloodBlade1.3.9Final.jar",
+                        "length": 735814,
+                        "hash": "360ae8fc8dde19b866ccb5c9233571d0883f81a5"
+                    },
+                    {
+                        "name": "[炼金重铸计划-七宗罪]PROJECT_saligia_2.1.0.jar",
+                        "length": 4499466,
+                        "hash": "398f96655a2303aa81836977e5a0029f745a73ba"
+                    },
+                    {
+                        "name": "[热力膨胀]CoFHLib-[1.7.10]1.1.1-181.jar",
+                        "length": 303665,
+                        "hash": "c60c6a789672bee5a078b2204d89ce0c8252873b"
+                    },
+                    {
+                        "name": "[矿物甘蔗]B0bGary%27s+Growable+Ores-2.1.0+Qf汉化+for+1.7.10.jar",
+                        "length": 185625,
+                        "hash": "4f0027686463a8bc3b31de00cfff5200a7da0a6a"
+                    },
+                    {
+                        "name": "[神秘字体修复].jar",
+                        "length": 55349,
+                        "hash": "36c2bae11c523096d80acb9f988cd31a09e9da1a"
+                    },
+                    {
+                        "name": "[神秘工匠]ThaumicTinkerer-2.5-1.7.10-164.jar",
+                        "length": 2141518,
+                        "hash": "48bde3cd23f5412440ca2a5a88b3b666bb5002a7"
+                    },
+                    {
+                        "name": "[神秘时代库存扫描]tcinventoryscan-mc1.7.10-1.0.10（汉化）.jar",
+                        "length": 17481,
+                        "hash": "5eaf6de8bb5a9ecf054bee3b43fd9b98720e782e"
+                    },
+                    {
+                        "name": "[神秘能源]thaumicenergistics-1.1.3.0.jar",
+                        "length": 1663661,
+                        "hash": "a6240b09a0680f3e3246a6d0fe17650299533a84"
+                    },
+                    {
+                        "name": "[神秘附属-禁忌魔法]Forbidden Magic-1.7.10-0.574.jar",
+                        "length": 624778,
+                        "hash": "25db331afd964ac89c5255df03a1098dc8442766"
+                    },
+                    {
+                        "name": "[编辑]NBTEdit_1.7.10.jar",
+                        "length": 77220,
+                        "hash": "0ebe20c8b7c1de5bd23a2106e8b88ab102b03a15"
+                    },
+                    {
+                        "name": "[网络♂相册]1.1.jar",
+                        "length": 360252,
+                        "hash": "a6076d2a3dd124bf60dd7b3c8eb471303f3e089c"
+                    },
+                    {
+                        "name": "[自定义MC]custommc.jar",
+                        "length": 1643270,
+                        "hash": "b0e7229708e0f3635659cc97ee72b7e76e793366"
+                    },
+                    {
+                        "name": "[自定义NPC]AdvNPCs.jar",
+                        "length": 19503521,
+                        "hash": "b5ccf7278694dc5406162f222df404f31e6d8185"
+                    },
+                    {
+                        "name": "[自定义称号]-服务端.jar",
+                        "length": 1296305,
+                        "hash": "ce6629d41aad5de0b66cdea4fd060463109728a5"
+                    },
+                    {
+                        "name": "[节点学]NodalMechanics-1.7-1.0-7.jar",
+                        "length": 22172,
+                        "hash": "2e985ce4ecf4a7495436a038656fbc35a0f2213c"
+                    },
+                    {
+                        "name": "[虚伪重构]Pseudo-mc1.12-r1vA.jar",
+                        "length": 202896,
+                        "hash": "72f5d8b403b376fa72076af93d50f9bac0c5025d"
+                    },
+                    {
+                        "name": "[血量显示]Damage-Indicators-Mod-1.7.10.jar",
+                        "length": 372956,
+                        "hash": "7c422323de65a4dc9b9eaa1a5b364e5fff718c65"
+                    },
+                    {
+                        "name": "[超级太阳能]SuperSolarPanels-1.1.2.jar",
+                        "length": 64085,
+                        "hash": "b0705c75d2a356bb030296e5fd5befa06aaf5450"
+                    },
+                    {
+                        "name": "[跳舞树长]TreeGrowingSimulator2014-MC1.7.10-0.0.3-22.jar",
+                        "length": 31302,
+                        "hash": "9fd31da3627e3a270d27cfc96b7f15bc29252d8e"
+                    },
+                    {
+                        "name": "[迷之刀技]SlashBlade-ZxSa-r6vB+-OfficialEdition-.jar",
+                        "length": 503861,
+                        "hash": "2daecfcdf86e28fdf12374994daedcd83fc9a533"
+                    },
+                    {
+                        "name": "[通用扩展]发电机.jar.jar",
+                        "length": 253388,
+                        "hash": "0788f4339506da214c6445f10d63d802f4b0c522"
+                    },
+                    {
+                        "name": "[通用机械]Mekanism.jar",
+                        "length": 15392975,
+                        "hash": "cd3caa76541a58e55e1b68d1e6a1aef881523cd2"
+                    },
+                    {
+                        "name": "[遗忘]Lostblade-1.0.0.jar",
+                        "length": 6849926,
+                        "hash": "e6c3935b042cc57c01b1ce955a423ec7ced851bd"
+                    },
+                    {
+                        "name": "[邪恶工艺]EvilCraft-1.7.10-0.9.13.jar",
+                        "length": 3599228,
+                        "hash": "823e846f9fdf1696c3c2abfa9fb844a57dc93078"
+                    },
+                    {
+                        "name": "[高亮显示] (2).jar",
+                        "length": 28800,
+                        "hash": "3dee679f808fc8cc564c94a674a18ed3d497afdf"
+                    },
+                    {
+                        "name": "[高亮显示].jar",
+                        "length": 544821,
+                        "hash": "7a874ee79a88cf66bd5355c8393069b3ac39c631"
+                    },
+                    {
+                        "name": "[魔改大法好2].jar",
+                        "length": 572698,
+                        "hash": "4b44a9267050b3a97bc1d9e8f3d060ff217dfd4b"
+                    },
+                    {
+                        "name": "[魔改大法好].jar",
+                        "length": 927376,
+                        "hash": "11ae0e9f55184e3f50b388ec8294200ae3ebd253"
+                    },
+                    {
+                        "name": "[魔法作物基础].jar",
+                        "length": 1491243,
+                        "hash": "bc645632755bc93d5ab7ee8da58c1b561c4ae877"
+                    },
+                    {
+                        "name": "[魔法水晶宫]GardenOfGlass.jar",
+                        "length": 8868,
+                        "hash": "98d37f4fde8efdd42df153120f8eb465c41a01d7"
+                    },
+                    {
+                        "name": "[魔法蜜蜂]magicbees-1.7.10-2.4.4.jar",
+                        "length": 978885,
+                        "hash": "7da02149dcdcfb8d6e4e52fcaea1c592c138d54b"
+                    },
+                    {
+                        "name": "[鼠标手势]MouseTweaks.jar",
+                        "length": 51898,
+                        "hash": "1fef53ebcd48f003fa0799de51e86ad113e3af7c"
+                    },
+                    {
+                        "name": "[龙研]Draconic-Evolution-1.7.10-1.0.2h.jar",
+                        "length": 4860873,
+                        "hash": "13af6b4a50c03b208a4f7a3a0d0377bf8d999793"
+                    },
+                    {
+                        "name": "[龙研前置]BrandonsCore-1.0.0.12.jar",
+                        "length": 92269,
+                        "hash": "39ecb8a041d8e3ada2a159a9f708a7b6bd910bf3"
+                    },
+                    {
+                        "name": "【通用奇点】（无尽拓展）Universal Singularities [Version 8]-1.7.10.jar",
+                        "length": 17500,
+                        "hash": "b962b8201cab918e31f7dd0f1bac6bd95693fc8d"
+                    },
+                    {
+                        "name": "似蛭.jar",
+                        "length": 475336,
+                        "hash": "946e8fdefd78504f68fd9036bda9ab57a296ae45"
+                    },
+                    {
+                        "name": "修复Avaritia-1.1.jar",
+                        "length": 956109,
+                        "hash": "5bbb83513a23bead7e94922eb10d26813216722a"
+                    },
+                    {
+                        "name": "冰狼之刃.jar",
+                        "length": 659899,
+                        "hash": "89398f914a89cbc2fd5e53e69719baa78a21a7c9"
+                    },
+                    {
+                        "name": "剑圣之刃.jar",
+                        "length": 573251,
+                        "hash": "127c58d570b1d4aae2190e8aa2a54f62d2ee063e"
+                    },
+                    {
+                        "name": "小地图.jar",
+                        "length": 465815,
+                        "hash": "6baf34a12cd05dca21776738012b8ebcb2b7bc48"
+                    },
+                    {
+                        "name": "幻魔炼金拵.jar",
+                        "length": 141760,
+                        "hash": "013adfd50301dc43fb8f534416c1d07de06ae918"
+                    },
+                    {
+                        "name": "拔刀剑附属-不正经的剑-r3.jar",
+                        "length": 597132,
+                        "hash": "967ffeaa2969aadd19132094d96e43bb879eca8f"
+                    },
+                    {
+                        "name": "无神.jar",
+                        "length": 246814,
+                        "hash": "e64b8e1ed9f8eedb700b166759d781d340dcea77"
+                    },
+                    {
+                        "name": "暗鸦.jar",
+                        "length": 1285092,
+                        "hash": "47980acf2d7c8b72659f61844b7c2efa94b3814f"
+                    },
+                    {
+                        "name": "洞爷湖.jar",
+                        "length": 40191,
+                        "hash": "8c2fe64792bb6fbcba02a02a5ace3955f34c92b0"
+                    },
+                    {
+                        "name": "炫彩之刃0.3v.jar",
+                        "length": 2188130,
+                        "hash": "2ad7a957cb4769a528cbe93a2453a1627bd53463"
+                    },
+                    {
+                        "name": "神剑.jar",
+                        "length": 842693,
+                        "hash": "e05033edda954db37ba4b0be27b4fb1754f4008b"
+                    },
+                    {
+                        "name": "神秘修复.jar",
+                        "length": 12532204,
+                        "hash": "2050c4c27c9c37bd951299c9c87f57033e782677"
+                    },
+                    {
+                        "name": "竹8.5.jar",
+                        "length": 1320814,
+                        "hash": "4e2ebddffec242da5e7803a843f47af96a38b57d"
+                    },
+                    {
+                        "name": "重力装甲.jar",
+                        "length": 415814,
+                        "hash": "beec8dff931703f8720a6bd7c120b4a1936927ba"
+                    },
+                    {
+                        "name": "风来剑.jar",
+                        "length": 404456,
+                        "hash": "aeb6ae664f8e0cfb475251669089b840da139677"
+                    },
+                    {
+                        "name": "风雷太刀.jar",
+                        "length": 252188,
+                        "hash": "ad31514381f2812f019408a4722ea7d833275056"
+                    },
+                    {
+                        "name": "魔典盖亚3[lucky_E汉化]1.7.10-1.2.7.jar",
+                        "length": 1460403,
+                        "hash": "670dfa0d8e0b575eae66c5040088b5c21ff98d31"
+                    }
+                ]
+            },
+            {
+                "name": "vexview",
+                "tree": [
+                    {
+                        "name": "textures",
+                        "tree": [
+                            {
+                                "name": "login.png",
+                                "length": 965742,
+                                "hash": "b62d821026528e7a7c6108850e91871e67b48c5a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

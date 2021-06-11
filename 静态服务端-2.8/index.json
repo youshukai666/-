@@ -1,0 +1,10 @@
+{
+    "version": "2.8s",
+    "upgrade": "self",
+    "update": "res",
+    "mode": "common",
+    "paths": [
+    ".minecraft/mods",
+    ".minecraft/vexview"
+	]
+}
