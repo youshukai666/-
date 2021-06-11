@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "main.py", line 23, in <module>
-  File "src\entry.py", line 43, in __init__
-  File "src\entry.py", line 133, in initializeWorkDirectory
-src.exception.NotInRightPathError.NotInRightPathError: Could not found the directory: ../../.minecraft
-Please put this file inside .minecraft/updater before executing
